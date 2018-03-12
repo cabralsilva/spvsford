@@ -1,0 +1,234 @@
+
+07/03/2018 23:53:39.790#########################################
+java.lang.NullPointerException
+	at AGVS.Serial.DatabaseStatic.initBaiasFord(DatabaseStatic.java:551)
+	at AGVS.Serial.DatabaseStatic.<init>(DatabaseStatic.java:612)
+	at Main.main(Main.java:26)
+
+################################################################
+
+07/03/2018 23:56:45.278#########################################
+java.lang.NullPointerException
+	at AGVS.Serial.DatabaseStatic.initBaiasFord(DatabaseStatic.java:551)
+	at AGVS.Serial.DatabaseStatic.<init>(DatabaseStatic.java:612)
+	at Main.main(Main.java:26)
+
+################################################################
+
+08/03/2018 00:19:09.946#########################################
+java.net.SocketException: Software caused connection abort: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.net.SocketOutputStream.write(Unknown Source)
+	at WebService.http.Response.flush(Response.java:68)
+	at WebService.http.Dispatcher.send(Dispatcher.java:179)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:116)
+	at WebService.http.Worker.run(Worker.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+################################################################
+
+09/03/2018 00:48:53.951#########################################
+java.net.SocketException: Software caused connection abort: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.net.SocketOutputStream.write(Unknown Source)
+	at WebService.http.Response.flush(Response.java:68)
+	at WebService.http.Dispatcher.send(Dispatcher.java:139)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+	at WebService.http.Worker.run(Worker.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+################################################################
+
+09/03/2018 00:48:54.083#########################################
+java.net.SocketException: Software caused connection abort: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.net.SocketOutputStream.write(Unknown Source)
+	at WebService.http.Response.flush(Response.java:68)
+	at WebService.http.Dispatcher.send(Dispatcher.java:139)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+	at WebService.http.Worker.run(Worker.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+################################################################
+
+09/03/2018 00:48:54.083#########################################
+java.net.SocketException: Software caused connection abort: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.net.SocketOutputStream.write(Unknown Source)
+	at WebService.http.Response.flush(Response.java:68)
+	at WebService.http.Dispatcher.send(Dispatcher.java:139)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+	at WebService.http.Worker.run(Worker.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+################################################################
+
+09/03/2018 00:48:54.099#########################################
+java.net.SocketException: Software caused connection abort: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.net.SocketOutputStream.write(Unknown Source)
+	at WebService.http.Response.flush(Response.java:68)
+	at WebService.http.Dispatcher.send(Dispatcher.java:139)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+	at WebService.http.Worker.run(Worker.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+################################################################
+
+09/03/2018 00:48:54.099#########################################
+java.net.SocketException: Software caused connection abort: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.net.SocketOutputStream.write(Unknown Source)
+	at WebService.http.Response.flush(Response.java:68)
+	at WebService.http.Dispatcher.send(Dispatcher.java:139)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+	at WebService.http.Worker.run(Worker.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+################################################################
+
+09/03/2018 00:48:54.099#########################################
+java.net.SocketException: Software caused connection abort: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.net.SocketOutputStream.write(Unknown Source)
+	at WebService.http.Response.flush(Response.java:68)
+	at WebService.http.Dispatcher.send(Dispatcher.java:139)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+	at WebService.http.Worker.run(Worker.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+################################################################
+
+09/03/2018 00:48:54.099#########################################
+java.net.SocketException: Software caused connection abort: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.net.SocketOutputStream.write(Unknown Source)
+	at WebService.http.Response.flush(Response.java:68)
+	at WebService.http.Dispatcher.send(Dispatcher.java:139)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+	at WebService.http.Worker.run(Worker.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+################################################################
+
+09/03/2018 00:48:54.130#########################################
+java.net.SocketException: Software caused connection abort: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.net.SocketOutputStream.write(Unknown Source)
+	at WebService.http.Response.flush(Response.java:68)
+	at WebService.http.Dispatcher.send(Dispatcher.java:139)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+	at WebService.http.Worker.run(Worker.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+################################################################
+
+09/03/2018 00:48:54.162#########################################
+java.net.SocketException: Software caused connection abort: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.net.SocketOutputStream.write(Unknown Source)
+	at WebService.http.Response.flush(Response.java:68)
+	at WebService.http.Dispatcher.send(Dispatcher.java:139)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+	at WebService.http.Worker.run(Worker.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+################################################################
+
+09/03/2018 00:48:54.162#########################################
+java.net.SocketException: Software caused connection abort: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.net.SocketOutputStream.write(Unknown Source)
+	at WebService.http.Response.flush(Response.java:68)
+	at WebService.http.Dispatcher.send(Dispatcher.java:139)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+	at WebService.http.Worker.run(Worker.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+################################################################
+
+09/03/2018 00:48:54.162#########################################
+java.net.SocketException: Software caused connection abort: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.net.SocketOutputStream.write(Unknown Source)
+	at WebService.http.Response.flush(Response.java:68)
+	at WebService.http.Dispatcher.send(Dispatcher.java:139)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+	at WebService.http.Worker.run(Worker.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+################################################################
+
+09/03/2018 00:48:54.162#########################################
+java.net.SocketException: Software caused connection abort: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.net.SocketOutputStream.write(Unknown Source)
+	at WebService.http.Response.flush(Response.java:68)
+	at WebService.http.Dispatcher.send(Dispatcher.java:139)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+	at WebService.http.Worker.run(Worker.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+################################################################
+
+09/03/2018 00:48:54.162#########################################
+java.net.SocketException: Software caused connection abort: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.net.SocketOutputStream.write(Unknown Source)
+	at WebService.http.Response.flush(Response.java:68)
+	at WebService.http.Dispatcher.send(Dispatcher.java:139)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+	at WebService.http.Worker.run(Worker.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+################################################################
+
+09/03/2018 00:48:54.162#########################################
+java.net.SocketException: Software caused connection abort: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.net.SocketOutputStream.write(Unknown Source)
+	at WebService.http.Response.flush(Response.java:68)
+	at WebService.http.Dispatcher.send(Dispatcher.java:139)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+	at WebService.http.Worker.run(Worker.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+################################################################
+
+09/03/2018 11:49:04.119#########################################
+java.io.IOException: Invalid input data
+	at WebService.http.Util.readLine(Util.java:12)
+	at WebService.http.Request.processRequestLine(Request.java:52)
+	at WebService.http.Request.<init>(Request.java:44)
+	at WebService.http.Worker.run(Worker.java:38)
+	at java.lang.Thread.run(Unknown Source)
+
+################################################################
+
+09/03/2018 12:31:14.661#########################################
+java.net.SocketException: Software caused connection abort: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.net.SocketOutputStream.write(Unknown Source)
+	at WebService.http.Response.flush(Response.java:68)
+	at WebService.http.Dispatcher.send(Dispatcher.java:179)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:116)
+	at WebService.http.Worker.run(Worker.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+################################################################

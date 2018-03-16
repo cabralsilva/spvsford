@@ -29,6 +29,11 @@ public class SupervisorioAGVSParadas implements Command{
 			out.flush();
 			return;
 		}
+		if(!Login.login(req, resp, Login.tokenCadastroAGVS)) {
+			
+			Login.redirectLoginInvalid(req, resp);
+			return;
+		}
 		
 
 		Tags tags = new Tags();

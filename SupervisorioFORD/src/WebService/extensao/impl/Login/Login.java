@@ -39,6 +39,7 @@ public class Login {
 	// ADM
 	public static final String tokenUsuarios = "Gerenciamento de Usuarios";
 	// pages Cadastros
+	public static final String tokenParadas = "Tela Paradas";
 	public static final String tokenCadastroAGVS = "Cadastro de AGVS";
 	public static final String tokenCadastroLayout = "Cadastro de Layout";
 	public static final String tokenCadastroTags = "Cadastro de Tags";
@@ -68,7 +69,7 @@ public class Login {
 			tokenCadastroAGVS, tokenCadastroLayout, tokenCadastroTags, tokenCadastroBaias, tokenCadastroCruzamentos, tokenCadastroMesh, tokenCadastroLogicaMesh, 
 			tokenCadastroTagsCruzamentos, tokenCadastroSemaforos, tokenCadastroTagsSemaforo, 
 			tokenCadastroZoneTime, tokenCadastroEquipamentos, tokenCadastroSupermercados, tokenCadastroTempoParadoTags, tokenUsuarios, 
-			tokenInicioTurno, tokenPedidos, tokenRastreamento};
+			tokenInicioTurno, tokenPedidos, tokenRastreamento, tokenParadas};
 
 	public static final Map<String, String[]> getPermissao(String permissaoPersonalizada) {
 		Map<String, String[]> permissao = new HashMap<String, String[]>();

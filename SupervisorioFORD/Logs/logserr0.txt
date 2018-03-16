@@ -1,233 +1,517 @@
 
-07/03/2018 23:53:39.790#########################################
-java.lang.NullPointerException
-	at AGVS.Serial.DatabaseStatic.initBaiasFord(DatabaseStatic.java:551)
-	at AGVS.Serial.DatabaseStatic.<init>(DatabaseStatic.java:612)
+16/03/2018 17:37:53.203#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selecAGVS(SQLServer.java:785)
+	at WebService.extensao.impl.database.ActionLayoutHome.execute(ActionLayoutHome.java:42)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:95)
+	at WebService.http.Worker.run(Worker.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+################################################################
+
+16/03/2018 17:37:53.329#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selecAGVS(SQLServer.java:785)
+	at WebService.extensao.impl.database.ActionAGVHome.execute(ActionAGVHome.java:27)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:95)
+	at WebService.http.Worker.run(Worker.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+################################################################
+
+16/03/2018 17:37:53.330#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selectSemaforosLogic(SQLServer.java:1716)
+	at AGVS.Serial.DatabaseStatic.resetSemaforos(DatabaseStatic.java:113)
+	at AGVS.Serial.DatabaseStatic.<init>(DatabaseStatic.java:607)
 	at Main.main(Main.java:26)
 
 ################################################################
 
-07/03/2018 23:56:45.278#########################################
-java.lang.NullPointerException
-	at AGVS.Serial.DatabaseStatic.initBaiasFord(DatabaseStatic.java:551)
-	at AGVS.Serial.DatabaseStatic.<init>(DatabaseStatic.java:612)
+16/03/2018 17:37:53.413#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selecAGVSLastEigthUpdate(SQLServer.java:833)
+	at AGVS.Serial.DatabaseStatic.resetAGVS(DatabaseStatic.java:72)
+	at AGVS.Serial.DatabaseStatic.<init>(DatabaseStatic.java:616)
 	at Main.main(Main.java:26)
 
 ################################################################
 
-08/03/2018 00:19:09.946#########################################
-java.net.SocketException: Software caused connection abort: socket write error
-	at java.net.SocketOutputStream.socketWrite0(Native Method)
-	at java.net.SocketOutputStream.socketWrite(Unknown Source)
-	at java.net.SocketOutputStream.write(Unknown Source)
-	at WebService.http.Response.flush(Response.java:68)
-	at WebService.http.Dispatcher.send(Dispatcher.java:179)
-	at WebService.http.Dispatcher.resolve(Dispatcher.java:116)
+16/03/2018 17:37:53.432#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selectMeshSerial(SQLServer.java:736)
+	at AGVS.Serial.DatabaseStatic.resetMeshs(DatabaseStatic.java:82)
+	at AGVS.Serial.DatabaseStatic.<init>(DatabaseStatic.java:617)
+	at Main.main(Main.java:26)
+
+################################################################
+
+16/03/2018 17:37:53.433#########################################
+java.lang.NullPointerException
+	at AGVS.Serial.DatabaseStatic.resetMeshs(DatabaseStatic.java:83)
+	at AGVS.Serial.DatabaseStatic.<init>(DatabaseStatic.java:617)
+	at Main.main(Main.java:26)
+
+################################################################
+
+16/03/2018 17:37:53.486#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selecAGVS(SQLServer.java:785)
+	at WebService.extensao.impl.database.ActionLayoutHome.execute(ActionLayoutHome.java:42)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:95)
 	at WebService.http.Worker.run(Worker.java:42)
 	at java.lang.Thread.run(Unknown Source)
 
 ################################################################
 
-09/03/2018 00:48:53.951#########################################
-java.net.SocketException: Software caused connection abort: socket write error
-	at java.net.SocketOutputStream.socketWrite0(Native Method)
-	at java.net.SocketOutputStream.socketWrite(Unknown Source)
-	at java.net.SocketOutputStream.write(Unknown Source)
-	at WebService.http.Response.flush(Response.java:68)
-	at WebService.http.Dispatcher.send(Dispatcher.java:139)
-	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+16/03/2018 17:37:53.798#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selecAGVS(SQLServer.java:785)
+	at WebService.extensao.impl.database.ActionAGVHome.execute(ActionAGVHome.java:27)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:95)
 	at WebService.http.Worker.run(Worker.java:42)
 	at java.lang.Thread.run(Unknown Source)
 
 ################################################################
 
-09/03/2018 00:48:54.083#########################################
-java.net.SocketException: Software caused connection abort: socket write error
-	at java.net.SocketOutputStream.socketWrite0(Native Method)
-	at java.net.SocketOutputStream.socketWrite(Unknown Source)
-	at java.net.SocketOutputStream.write(Unknown Source)
-	at WebService.http.Response.flush(Response.java:68)
-	at WebService.http.Dispatcher.send(Dispatcher.java:139)
-	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+16/03/2018 17:37:56.781#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selecAGVS(SQLServer.java:785)
+	at WebService.extensao.impl.database.ActionLayoutHome.execute(ActionLayoutHome.java:42)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:95)
 	at WebService.http.Worker.run(Worker.java:42)
 	at java.lang.Thread.run(Unknown Source)
 
 ################################################################
 
-09/03/2018 00:48:54.083#########################################
-java.net.SocketException: Software caused connection abort: socket write error
-	at java.net.SocketOutputStream.socketWrite0(Native Method)
-	at java.net.SocketOutputStream.socketWrite(Unknown Source)
-	at java.net.SocketOutputStream.write(Unknown Source)
-	at WebService.http.Response.flush(Response.java:68)
-	at WebService.http.Dispatcher.send(Dispatcher.java:139)
-	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+16/03/2018 17:37:56.828#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selecAGVS(SQLServer.java:785)
+	at WebService.extensao.impl.database.ActionAGVHome.execute(ActionAGVHome.java:27)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:95)
 	at WebService.http.Worker.run(Worker.java:42)
 	at java.lang.Thread.run(Unknown Source)
 
 ################################################################
 
-09/03/2018 00:48:54.099#########################################
-java.net.SocketException: Software caused connection abort: socket write error
-	at java.net.SocketOutputStream.socketWrite0(Native Method)
-	at java.net.SocketOutputStream.socketWrite(Unknown Source)
-	at java.net.SocketOutputStream.write(Unknown Source)
-	at WebService.http.Response.flush(Response.java:68)
-	at WebService.http.Dispatcher.send(Dispatcher.java:139)
-	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+16/03/2018 17:37:59.683#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selecAGVS(SQLServer.java:785)
+	at WebService.extensao.impl.database.ActionLayoutHome.execute(ActionLayoutHome.java:42)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:95)
 	at WebService.http.Worker.run(Worker.java:42)
 	at java.lang.Thread.run(Unknown Source)
 
 ################################################################
 
-09/03/2018 00:48:54.099#########################################
-java.net.SocketException: Software caused connection abort: socket write error
-	at java.net.SocketOutputStream.socketWrite0(Native Method)
-	at java.net.SocketOutputStream.socketWrite(Unknown Source)
-	at java.net.SocketOutputStream.write(Unknown Source)
-	at WebService.http.Response.flush(Response.java:68)
-	at WebService.http.Dispatcher.send(Dispatcher.java:139)
-	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+16/03/2018 17:37:59.746#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selecAGVS(SQLServer.java:785)
+	at WebService.extensao.impl.database.ActionAGVHome.execute(ActionAGVHome.java:27)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:95)
 	at WebService.http.Worker.run(Worker.java:42)
 	at java.lang.Thread.run(Unknown Source)
 
 ################################################################
 
-09/03/2018 00:48:54.099#########################################
-java.net.SocketException: Software caused connection abort: socket write error
-	at java.net.SocketOutputStream.socketWrite0(Native Method)
-	at java.net.SocketOutputStream.socketWrite(Unknown Source)
-	at java.net.SocketOutputStream.write(Unknown Source)
-	at WebService.http.Response.flush(Response.java:68)
-	at WebService.http.Dispatcher.send(Dispatcher.java:139)
-	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+16/03/2018 17:38:02.822#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selecAGVS(SQLServer.java:785)
+	at WebService.extensao.impl.database.ActionLayoutHome.execute(ActionLayoutHome.java:42)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:95)
 	at WebService.http.Worker.run(Worker.java:42)
 	at java.lang.Thread.run(Unknown Source)
 
 ################################################################
 
-09/03/2018 00:48:54.099#########################################
-java.net.SocketException: Software caused connection abort: socket write error
-	at java.net.SocketOutputStream.socketWrite0(Native Method)
-	at java.net.SocketOutputStream.socketWrite(Unknown Source)
-	at java.net.SocketOutputStream.write(Unknown Source)
-	at WebService.http.Response.flush(Response.java:68)
-	at WebService.http.Dispatcher.send(Dispatcher.java:139)
-	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+16/03/2018 17:38:02.868#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selecAGVS(SQLServer.java:785)
+	at WebService.extensao.impl.database.ActionAGVHome.execute(ActionAGVHome.java:27)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:95)
 	at WebService.http.Worker.run(Worker.java:42)
 	at java.lang.Thread.run(Unknown Source)
 
 ################################################################
 
-09/03/2018 00:48:54.130#########################################
-java.net.SocketException: Software caused connection abort: socket write error
-	at java.net.SocketOutputStream.socketWrite0(Native Method)
-	at java.net.SocketOutputStream.socketWrite(Unknown Source)
-	at java.net.SocketOutputStream.write(Unknown Source)
-	at WebService.http.Response.flush(Response.java:68)
-	at WebService.http.Dispatcher.send(Dispatcher.java:139)
-	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+16/03/2018 17:38:05.783#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selecAGVS(SQLServer.java:785)
+	at WebService.extensao.impl.database.ActionLayoutHome.execute(ActionLayoutHome.java:42)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:95)
 	at WebService.http.Worker.run(Worker.java:42)
 	at java.lang.Thread.run(Unknown Source)
 
 ################################################################
 
-09/03/2018 00:48:54.162#########################################
-java.net.SocketException: Software caused connection abort: socket write error
-	at java.net.SocketOutputStream.socketWrite0(Native Method)
-	at java.net.SocketOutputStream.socketWrite(Unknown Source)
-	at java.net.SocketOutputStream.write(Unknown Source)
-	at WebService.http.Response.flush(Response.java:68)
-	at WebService.http.Dispatcher.send(Dispatcher.java:139)
-	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+16/03/2018 17:38:06.115#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selecAGVS(SQLServer.java:785)
+	at WebService.extensao.impl.database.ActionAGVHome.execute(ActionAGVHome.java:27)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:95)
 	at WebService.http.Worker.run(Worker.java:42)
 	at java.lang.Thread.run(Unknown Source)
 
 ################################################################
 
-09/03/2018 00:48:54.162#########################################
-java.net.SocketException: Software caused connection abort: socket write error
-	at java.net.SocketOutputStream.socketWrite0(Native Method)
-	at java.net.SocketOutputStream.socketWrite(Unknown Source)
-	at java.net.SocketOutputStream.write(Unknown Source)
-	at WebService.http.Response.flush(Response.java:68)
-	at WebService.http.Dispatcher.send(Dispatcher.java:139)
-	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+16/03/2018 17:38:08.768#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selecAGVS(SQLServer.java:785)
+	at WebService.extensao.impl.database.ActionLayoutHome.execute(ActionLayoutHome.java:42)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:95)
 	at WebService.http.Worker.run(Worker.java:42)
 	at java.lang.Thread.run(Unknown Source)
 
 ################################################################
 
-09/03/2018 00:48:54.162#########################################
-java.net.SocketException: Software caused connection abort: socket write error
-	at java.net.SocketOutputStream.socketWrite0(Native Method)
-	at java.net.SocketOutputStream.socketWrite(Unknown Source)
-	at java.net.SocketOutputStream.write(Unknown Source)
-	at WebService.http.Response.flush(Response.java:68)
-	at WebService.http.Dispatcher.send(Dispatcher.java:139)
-	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+16/03/2018 17:38:09.150#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selecAGVS(SQLServer.java:785)
+	at WebService.extensao.impl.database.ActionAGVHome.execute(ActionAGVHome.java:27)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:95)
 	at WebService.http.Worker.run(Worker.java:42)
 	at java.lang.Thread.run(Unknown Source)
 
 ################################################################
 
-09/03/2018 00:48:54.162#########################################
-java.net.SocketException: Software caused connection abort: socket write error
-	at java.net.SocketOutputStream.socketWrite0(Native Method)
-	at java.net.SocketOutputStream.socketWrite(Unknown Source)
-	at java.net.SocketOutputStream.write(Unknown Source)
-	at WebService.http.Response.flush(Response.java:68)
-	at WebService.http.Dispatcher.send(Dispatcher.java:139)
-	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+16/03/2018 17:38:11.724#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selecAGVS(SQLServer.java:785)
+	at WebService.extensao.impl.database.ActionLayoutHome.execute(ActionLayoutHome.java:42)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:95)
 	at WebService.http.Worker.run(Worker.java:42)
 	at java.lang.Thread.run(Unknown Source)
 
 ################################################################
 
-09/03/2018 00:48:54.162#########################################
-java.net.SocketException: Software caused connection abort: socket write error
-	at java.net.SocketOutputStream.socketWrite0(Native Method)
-	at java.net.SocketOutputStream.socketWrite(Unknown Source)
-	at java.net.SocketOutputStream.write(Unknown Source)
-	at WebService.http.Response.flush(Response.java:68)
-	at WebService.http.Dispatcher.send(Dispatcher.java:139)
-	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+16/03/2018 17:38:12.477#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selecAGVS(SQLServer.java:785)
+	at WebService.extensao.impl.database.ActionAGVHome.execute(ActionAGVHome.java:27)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:95)
 	at WebService.http.Worker.run(Worker.java:42)
 	at java.lang.Thread.run(Unknown Source)
 
 ################################################################
 
-09/03/2018 00:48:54.162#########################################
-java.net.SocketException: Software caused connection abort: socket write error
-	at java.net.SocketOutputStream.socketWrite0(Native Method)
-	at java.net.SocketOutputStream.socketWrite(Unknown Source)
-	at java.net.SocketOutputStream.write(Unknown Source)
-	at WebService.http.Response.flush(Response.java:68)
-	at WebService.http.Dispatcher.send(Dispatcher.java:139)
-	at WebService.http.Dispatcher.resolve(Dispatcher.java:114)
+16/03/2018 17:38:14.734#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selecAGVS(SQLServer.java:785)
+	at WebService.extensao.impl.database.ActionLayoutHome.execute(ActionLayoutHome.java:42)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:95)
 	at WebService.http.Worker.run(Worker.java:42)
 	at java.lang.Thread.run(Unknown Source)
 
 ################################################################
 
-09/03/2018 11:49:04.119#########################################
-java.io.IOException: Invalid input data
-	at WebService.http.Util.readLine(Util.java:12)
-	at WebService.http.Request.processRequestLine(Request.java:52)
-	at WebService.http.Request.<init>(Request.java:44)
-	at WebService.http.Worker.run(Worker.java:38)
+16/03/2018 17:38:14.997#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selecAGVS(SQLServer.java:785)
+	at WebService.extensao.impl.database.ActionAGVHome.execute(ActionAGVHome.java:27)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:95)
+	at WebService.http.Worker.run(Worker.java:42)
 	at java.lang.Thread.run(Unknown Source)
 
 ################################################################
 
-09/03/2018 12:31:14.661#########################################
-java.net.SocketException: Software caused connection abort: socket write error
-	at java.net.SocketOutputStream.socketWrite0(Native Method)
-	at java.net.SocketOutputStream.socketWrite(Unknown Source)
-	at java.net.SocketOutputStream.write(Unknown Source)
-	at WebService.http.Response.flush(Response.java:68)
-	at WebService.http.Dispatcher.send(Dispatcher.java:179)
-	at WebService.http.Dispatcher.resolve(Dispatcher.java:116)
+16/03/2018 17:38:17.734#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selecAGVS(SQLServer.java:785)
+	at WebService.extensao.impl.database.ActionLayoutHome.execute(ActionLayoutHome.java:42)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:95)
+	at WebService.http.Worker.run(Worker.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+################################################################
+
+16/03/2018 17:38:17.767#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selecAGVS(SQLServer.java:785)
+	at WebService.extensao.impl.database.ActionAGVHome.execute(ActionAGVHome.java:27)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:95)
+	at WebService.http.Worker.run(Worker.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+################################################################
+
+16/03/2018 17:38:20.767#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selecAGVS(SQLServer.java:785)
+	at WebService.extensao.impl.database.ActionLayoutHome.execute(ActionLayoutHome.java:42)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:95)
+	at WebService.http.Worker.run(Worker.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+################################################################
+
+16/03/2018 17:38:21.041#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selecAGVS(SQLServer.java:785)
+	at WebService.extensao.impl.database.ActionAGVHome.execute(ActionAGVHome.java:27)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:95)
+	at WebService.http.Worker.run(Worker.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+################################################################
+
+16/03/2018 17:38:23.887#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selecAGVS(SQLServer.java:785)
+	at WebService.extensao.impl.database.ActionLayoutHome.execute(ActionLayoutHome.java:42)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:95)
+	at WebService.http.Worker.run(Worker.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+################################################################
+
+16/03/2018 17:38:24.158#########################################
+com.microsoft.sqlserver.jdbc.SQLServerException: Nome de coluna 'ip' inválido.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.execute(SQLServerPreparedStatement.java:332)
+	at AGVS.Data.SQLServer.selecAGVS(SQLServer.java:785)
+	at WebService.extensao.impl.database.ActionAGVHome.execute(ActionAGVHome.java:27)
+	at WebService.http.Dispatcher.resolve(Dispatcher.java:95)
 	at WebService.http.Worker.run(Worker.java:42)
 	at java.lang.Thread.run(Unknown Source)
 

@@ -784,7 +784,7 @@ public class Methods {
 				msg += "<tr class=\"gradeA\">" 
 						+ "<td>" + value.getId() + "</td>" 
 						+ "<td>" + value.getNome() + "</td>"
-						+ "<td>" + value.getMac16() + "</td>" 
+						+ "<td>" + value.getIp() + "</td>" 
 						+ "<td>" + value.getMac64() + "</td>"
 						+ "<td>" + value.getNumeroEntradas() + "</td>"
 						+ "<td>" + value.getNumeroSaidas() + "</td>"

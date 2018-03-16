@@ -340,13 +340,13 @@ public class Cancelas {
 							if ((timeSend == 0 || (System.currentTimeMillis() - timeSend) > 4000)) {
 
 								if (statusC1 != ABERTO) {
-									System.out.println(c1.getMs().getMac16());
+									System.out.println(c1.getMs().getIp());
 									System.out.println(c1.getMs().getMac64());
-									ConfigProcess.serial.enviar("<xml>" + sinalACC1 + "</xml>", c1.getMs().getMac16(),
+									ConfigProcess.serial.enviar("<xml>" + sinalACC1 + "</xml>", c1.getMs().getIp(),
 											c1.getMs().getMac64());
 								}
 								if (statusC2 != ABERTO) {
-									ConfigProcess.serial.enviar("<xml>" + sinalACC2 + "</xml>", c2.getMs().getMac16(),
+									ConfigProcess.serial.enviar("<xml>" + sinalACC2 + "</xml>", c2.getMs().getIp(),
 											c2.getMs().getMac64());
 								}
 								timeSend = System.currentTimeMillis();
@@ -381,11 +381,11 @@ public class Cancelas {
 								sinalACC2aux = 1;
 							}
 							if (bloqC1 && statusC1 == ABERTO) {
-								ConfigProcess.serial.enviar("<xml>" + sinalACC1aux + "</xml>", c1.getMs().getMac16(),
+								ConfigProcess.serial.enviar("<xml>" + sinalACC1aux + "</xml>", c1.getMs().getIp(),
 										c1.getMs().getMac64());
 							}
 							if (bloqC1 && statusC2 == ABERTO) {
-								ConfigProcess.serial.enviar("<xml>" + sinalACC2aux + "</xml>", c2.getMs().getMac16(),
+								ConfigProcess.serial.enviar("<xml>" + sinalACC2aux + "</xml>", c2.getMs().getIp(),
 										c2.getMs().getMac64());
 							}
 							timeSend = System.currentTimeMillis();
@@ -401,11 +401,11 @@ public class Cancelas {
 					System.out.println("ABRIR");
 
 					if (statusC1 == FECHADO) {
-						ConfigProcess.serial.enviar("<xml>" + sinalACC1 + "</xml>", c1.getMs().getMac16(),
+						ConfigProcess.serial.enviar("<xml>" + sinalACC1 + "</xml>", c1.getMs().getIp(),
 								c1.getMs().getMac64());
 					}
 					if (statusC2 == FECHADO) {
-						ConfigProcess.serial.enviar("<xml>" + sinalACC2 + "</xml>", c2.getMs().getMac16(),
+						ConfigProcess.serial.enviar("<xml>" + sinalACC2 + "</xml>", c2.getMs().getIp(),
 								c2.getMs().getMac64());
 					}
 					timeSend = System.currentTimeMillis();

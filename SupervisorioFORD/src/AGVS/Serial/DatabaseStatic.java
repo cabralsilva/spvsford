@@ -548,54 +548,49 @@ public class DatabaseStatic {
 	
 	public void initBaiasFord() {
 		
+		lstMeshModBus = new ArrayList<MeshModbus>();
 		for (MeshSerial ms : mashs) {
 			ms.setLstBaia(ConfigProcess.bd().selectBaiasByMesh(ms.getId()));
+			lstMeshModBus.add(new MeshModbus(ms.getIp(), ms.getNome(), 
+					new Baia(ms.getLstBaia().get(0).getId(), 
+							ms.getLstBaia().get(0).getNome(), 
+							ms.getLstBaia().get(0).getNumero(), 
+							ms.getLstBaia().get(0).getCoordenadaX(), 
+							ms.getLstBaia().get(0).getCoordenadaY(), 
+							ms.getLstBaia().get(0).getTipo(), 
+							true, 
+							true),
+					false,false,false));
 		}
-		lstMeshModBus = new ArrayList<MeshModbus>();
-		MeshModbus home1 = new MeshModbus("19.26.136.29", "Home 1", new Baia(1, "H1", 14, 95, 95, TipoBaia.ENDPOINT, true, true), false,false,false);
-		MeshModbus home2 = new MeshModbus("19.26.136.30", "Home 2", new Baia(2, "H1", 15, 95, 95, TipoBaia.ENDPOINT, true, true), false,false,false);
-		MeshModbus baiaA = new MeshModbus("19.26.136.12", "Baia A", new Baia(3, "A", 16, 95, 95, TipoBaia.ORDER, true, true), false,false,false);
-		MeshModbus baiaB = new MeshModbus("19.26.136.13", "Baia B", new Baia(4, "B", 17, 95, 95, TipoBaia.ORDER, true, true), false,false,false);
-		MeshModbus baiaC = new MeshModbus("19.26.136.14", "Baia c", new Baia(5, "C", 18, 95, 95, TipoBaia.ORDER, true, true), false,false,false);
-		MeshModbus baiaD = new MeshModbus("19.26.136.15", "Baia D", new Baia(6, "D", 19, 95, 95, TipoBaia.ORDER, true, true), false,false,false);
-		MeshModbus baiaE = new MeshModbus("19.26.136.16", "Baia E", new Baia(7, "E", 20, 95, 95, TipoBaia.ORDER, true, true), false,false,false);
-		MeshModbus baiaG = new MeshModbus("19.26.136.18", "Baia G", new Baia(8, "G", 22, 95, 95, TipoBaia.ORDER, true, true), false,false,false);
-		MeshModbus baiaH = new MeshModbus("19.26.136.19", "Baia H", new Baia(9, "H", 23, 95, 95, TipoBaia.ORDER, true, true), false,false,false);
-//		MeshModbus baiaC = new MeshModbus("19.26.136.14", "Baia C", new Baia(18, 79, 95, TipoBaia.ORDER, true, true));
-//		MeshModbus baiaD = new MeshModbus("19.26.136.15", "Baia D", new Baia(19, 72, 95, TipoBaia.ORDER, true, true));
-//		MeshModbus baiaE = new MeshModbus("19.26.136.16", "Baia E", new Baia(20, 65, 95, TipoBaia.ORDER, true, true));
-//		MeshModbus baiaF = new MeshModbus("19.26.136.17", "Baia F", new Baia(21, 57, 95, TipoBaia.ORDER, true, true));
-//		MeshModbus baiaG = new MeshModbus("19.26.136.18", "Baia G", new Baia(22, 50, 95, TipoBaia.ORDER, true, true));
-//		MeshModbus baiaH = new MeshModbus("19.26.136.19", "Baia H", new Baia(23, 42, 95, TipoBaia.SPECIAL, true, true));
-//		MeshModbus baiaI = new MeshModbus("19.26.136.20", "Baia I", new Baia(24, 35, 95, TipoBaia.SPECIAL, true, true));
-//		MeshModbus baiaJ = new MeshModbus("19.26.136.21", "Baia J", new Baia(25, 27, 95, TipoBaia.SPECIAL, true, true));
-//		MeshModbus baiaK = new MeshModbus("19.26.136.22", "Baia K", new Baia(26, 20, 95, TipoBaia.SPECIAL, true, true));
-//		MeshModbus baiaL = new MeshModbus("19.26.136.23", "Baia L", new Baia(27, 12, 95, TipoBaia.SPECIAL, true, true));
-//		MeshModbus baiaM = new MeshModbus("19.26.136.24", "Baia M", new Baia(28, 5, 95, TipoBaia.SPECIAL, true, true));
-		MeshModbus baiaN = new MeshModbus("19.26.136.25", "Baia N", new Baia(2, "H1", 29, 64, 4, TipoBaia.DELIVERY1, false, true), false,false,false);
-		MeshModbus baiaO = new MeshModbus("19.26.136.26", "Baia O", new Baia(2, "H1", 30, 72, 4, TipoBaia.DELIVERY2, true, true), false,false,false);
-		MeshModbus baiaP = new MeshModbus("19.26.136.27", "Baia P", new Baia(2, "H1", 31, 79, 4, TipoBaia.DELIVERY3, false, true), false,false,false);
-		MeshModbus baiaQ = new MeshModbus("19.26.136.28", "Baia Q", new Baia(2, "H1", 32, 87, 4, TipoBaia.DELIVERY4, true, true), false,false,false);
 		
-		lstMeshModBus.add(home1);
-		lstMeshModBus.add(home2);
-		lstMeshModBus.add(baiaA);
-		lstMeshModBus.add(baiaB);
-		lstMeshModBus.add(baiaC);
-		lstMeshModBus.add(baiaD);
-		lstMeshModBus.add(baiaE);
-//		lstMeshModBus.add(baiaF);
-		lstMeshModBus.add(baiaG);
-		lstMeshModBus.add(baiaH);
-//		lstMeshModBus.add(baiaI);
-//		lstMeshModBus.add(baiaJ);
-//		lstMeshModBus.add(baiaK);
-//		lstMeshModBus.add(baiaL);
-//		lstMeshModBus.add(baiaM);
-		lstMeshModBus.add(baiaN);
-		lstMeshModBus.add(baiaO);
-		lstMeshModBus.add(baiaP);
-		lstMeshModBus.add(baiaQ);
+//		MeshModbus home1 = new MeshModbus("19.26.136.29", "Home 1", new Baia(1, "H1", 14, 95, 95, TipoBaia.ENDPOINT, true, true), false,false,false);
+//		MeshModbus home2 = new MeshModbus("19.26.136.30", "Home 2", new Baia(2, "H1", 15, 95, 95, TipoBaia.ENDPOINT, true, true), false,false,false);
+//		MeshModbus baiaA = new MeshModbus("19.26.136.12", "Baia A", new Baia(3, "A", 16, 95, 95, TipoBaia.ORDER, true, true), false,false,false);
+//		MeshModbus baiaB = new MeshModbus("19.26.136.13", "Baia B", new Baia(4, "B", 17, 95, 95, TipoBaia.ORDER, true, true), false,false,false);
+//		MeshModbus baiaC = new MeshModbus("19.26.136.14", "Baia c", new Baia(5, "C", 18, 95, 95, TipoBaia.ORDER, true, true), false,false,false);
+//		MeshModbus baiaD = new MeshModbus("19.26.136.15", "Baia D", new Baia(6, "D", 19, 95, 95, TipoBaia.ORDER, true, true), false,false,false);
+//		MeshModbus baiaE = new MeshModbus("19.26.136.16", "Baia E", new Baia(7, "E", 20, 95, 95, TipoBaia.ORDER, true, true), false,false,false);
+//		MeshModbus baiaG = new MeshModbus("19.26.136.18", "Baia G", new Baia(8, "G", 22, 95, 95, TipoBaia.ORDER, true, true), false,false,false);
+//		MeshModbus baiaH = new MeshModbus("19.26.136.19", "Baia H", new Baia(9, "H", 23, 95, 95, TipoBaia.ORDER, true, true), false,false,false);
+//		MeshModbus baiaN = new MeshModbus("19.26.136.25", "Baia N", new Baia(2, "H1", 29, 64, 4, TipoBaia.DELIVERY1, false, true), false,false,false);
+//		MeshModbus baiaO = new MeshModbus("19.26.136.26", "Baia O", new Baia(2, "H1", 30, 72, 4, TipoBaia.DELIVERY2, true, true), false,false,false);
+//		MeshModbus baiaP = new MeshModbus("19.26.136.27", "Baia P", new Baia(2, "H1", 31, 79, 4, TipoBaia.DELIVERY3, false, true), false,false,false);
+//		MeshModbus baiaQ = new MeshModbus("19.26.136.28", "Baia Q", new Baia(2, "H1", 32, 87, 4, TipoBaia.DELIVERY4, true, true), false,false,false);
+		
+//		lstMeshModBus.add(home1);
+//		lstMeshModBus.add(home2);
+//		lstMeshModBus.add(baiaA);
+//		lstMeshModBus.add(baiaB);
+//		lstMeshModBus.add(baiaC);
+//		lstMeshModBus.add(baiaD);
+//		lstMeshModBus.add(baiaE);
+//		lstMeshModBus.add(baiaG);
+//		lstMeshModBus.add(baiaH);
+//
+//		lstMeshModBus.add(baiaN);
+//		lstMeshModBus.add(baiaO);
+//		lstMeshModBus.add(baiaP);
+//		lstMeshModBus.add(baiaQ);
 	}
 
 	public DatabaseStatic() {

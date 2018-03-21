@@ -15,7 +15,6 @@ public class Baia {
 	private int coordenadaX;
 	private int coordenadaY;
 	
-	private boolean sensorRack1;
 	private boolean isFree;
 	
 	private TipoBaia tipo;
@@ -71,17 +70,7 @@ public class Baia {
 		this.id = id;
 	}
 	
-	
-
-	public boolean isSensorRack1() {
-		return sensorRack1;
-	}
-
-	public void setSensorRack1(boolean sensorRack1) {
-		this.sensorRack1 = sensorRack1;
-	}
-
-	public Baia(int id, String nome, int numero, int coordenadaX, int coordenadaY, TipoBaia tipo, boolean sensorRack1, boolean free) {
+	public Baia(int id, String nome, int numero, int coordenadaX, int coordenadaY, TipoBaia tipo, boolean free) {
 		super();
 		this.id = id;
 		this.nome = nome;
@@ -89,7 +78,6 @@ public class Baia {
 		this.coordenadaX = coordenadaX;
 		this.coordenadaY = coordenadaY;
 		this.tipo = tipo;
-		this.sensorRack1 = sensorRack1;
 		this.isFree = free;
 	}
 
@@ -102,20 +90,11 @@ public class Baia {
 		this.isFree = isFree;
 	}
 
-	public boolean issensorRack1() {
-		return sensorRack1;
-	}
-
-	public void setsensorRack1(boolean sensorRack1) {
-		this.sensorRack1 = sensorRack1;
-	}
-	
-	
 
 	@Override
 	public String toString() {
 		return "Baia [id=" + id + ", nome=" + nome + ", numero=" + numero + ", coordenadaX=" + coordenadaX
-				+ ", coordenadaY=" + coordenadaY + ", sensorRack1=" + sensorRack1 
+				+ ", coordenadaY=" + coordenadaY
 				+ ", isFree=" + isFree + ", tipo=" + tipo + "]";
 	}
 

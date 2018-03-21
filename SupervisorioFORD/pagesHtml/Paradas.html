@@ -60,11 +60,7 @@
 				<div id="layout" class="col-md-6"
 					style="position: relative; width: 127.2vh; height: 60vh; /*border: 3px solid #73AD21;*/ background: no-repeat; background-image: url(../TAS/images/background.jpg); background-size: 100% 100%;">
 				</div>
-				<div class="col-md-1" style="width: 12.5%">
-					<center>
-						<span style='font-size: 32px; color: black; font-weight: bold;'>AGV
-							1</span>
-					</center>
+				<div class="col-md-1" style="width: 25%">
 					<ul class="list-unstyled">
 						<li class="margin-bottom-20"><a
 							class="btn btn-primary btn-round btn-block" href="#"
@@ -78,35 +74,11 @@
 						</a></li>
 						<li class="margin-bottom-20"><a
 							class="btn btn-primary btn-round btn-block"
-							href="/SupervisorioAGVS/TV"> <i class="icon wb-home"
+							href="/"> <i class="icon wb-home"
 								aria-hidden="true"></i> Go to HOME
 						</a></li>
 					</ul>
 				</div>
-				<div class="col-md-1" style="width: 12.5%">
-					<center>
-						<span style='font-size: 32px; color: black; font-weight: bold;'>AGV
-							2</span>
-					</center>
-					<ul class="list-unstyled">
-						<li class="margin-bottom-20"><a
-							class="btn btn-primary btn-round btn-block" href="#"
-							onclick='sendOrder(2)'> <i class="icon wb-order"
-								aria-hidden="true"></i> Pedido
-						</a></li>
-						<li class="margin-bottom-20"><a
-							class="btn btn-primary btn-round btn-block"
-							href="/SupervisorioAGVS/TV"> <i class="icon wb-random"
-								aria-hidden="true"></i> Enviar rotas
-						</a></li>
-						<li class="margin-bottom-20"><a
-							class="btn btn-primary btn-round btn-block"
-							href="/SupervisorioAGVS/TV"> <i class="icon wb-home"
-								aria-hidden="true"></i> Go to HOME
-						</a></li>
-					</ul>
-				</div>
-
 				<div class="col-md-3" >
 					<ul class="list-unstyled" id="rotas">
 						
@@ -121,7 +93,7 @@
 				<div class="col-md-3">
 					<ul class="list-unstyled">
 						<li class="margin-bottom-20">
-							<a class="btn btn-primary btn-round btn-block" href="/SupervisorioAGVS"> <i class="icon wb-settings"
+							<a class="btn btn-primary btn-round btn-block" href="/"> <i class="icon wb-settings"
 								aria-hidden="true"></i> CONFIGURAÇÕES
 						</a></li>
 					</ul>
@@ -155,6 +127,8 @@
 	<script src="/TAS/js/clickHref.js" charset="iso-8859-1"></script>
 
 	<script>
+		var texto = "";
+		var array = new Array();
 		Array.prototype.remove = function() {
 			var what, a = arguments, L = a.length, ax;
 			while (L && this.length) {
@@ -165,101 +139,60 @@
 			}
 			return this;
 		};
-		var array = new Array();
+		
 		
 		function buildOrder(elem) {
-// 			console.log(elem.checked);
-			if (elem.checked) {
-				array.push(elem.id);
-			} else {
-				array.remove(elem.id);
-			}
-// 			console.log(array);
-			var texto = "";
-			array.forEach(function(entry) {
-			    console.log(entry);
-			    texto += entry + " > "
-			});
-			texto += " HOME 1";
-			
-			document.getElementById('rotas').innerHTML = "<li class='margin-bottom-20' id='rotas1'>" +
-   					"<button type='button' class='btn btn-labeled btn-danger btn-xs'>" +
+			if (array.length > 0){
+				if (array[array.length-1].numero != $(elem).data("numero")){
+					var baia = {numero: $(elem).data("numero"), nome: elem.id};
+					array.push(baia);
+					texto = "";
+					for(var i = 0; i < array.length; i++){
+						if (i == array.length-1) texto += array[i].nome;
+						else texto += array[i].nome + " > ";
+					}
+					document.getElementById('rotas').innerHTML = "<li class='margin-bottom-20' id='rotas1'>" +
+							"<button type='button' class='btn btn-labeled btn-danger btn-xs' onClick='clearRoute();'>" +
+							"<span id='agvrota1' class='btn-label'>" +
+		   						"<i class='icon wb-warning' aria-hidden='true'></i>" + 
+		   					"</span>Cancelar" + 
+		   				"</button>" +
+		   				texto + 
+					"</li>";
+				}	
+			}else{
+				var baia = {numero: $(elem).data("numero"), nome: elem.id};
+				array.push(baia);
+				texto = array[0].nome;
+				document.getElementById('rotas').innerHTML = "<li class='margin-bottom-20' id='rotas1'>" +
+						"<button type='button' class='btn btn-labeled btn-danger btn-xs' onClick='clearRoute();'>" +
 						"<span id='agvrota1' class='btn-label'>" +
-       						"<i class='icon wb-warning' aria-hidden='true' onClick='clearRoute()'></i>" + 
-       					"</span>Cancelar" + 
-       				"</button>" +
-       				texto + 
+	   						"<i class='icon wb-warning' aria-hidden='true'></i>" + 
+	   					"</span>Cancelar" + 
+	   				"</button>" +
+	   				texto + 
 				"</li>";
-// 			$('#rotas').append("<li class='margin-bottom-20' id='rotas1'>" +
-//                    					"<button type='button' class='btn btn-labeled btn-danger btn-xs'>" +
-//             							"<span id='agvrota1' class='btn-label'>" +
-// 	                   						"<i class='icon wb-warning' aria-hidden='true' onClick='clearRoute()'></i>" + 
-// 	                   					"</span>Cancelar" + 
-// 	                   				"</button>" +
-// 	                   				texto + 
-//         						"</li>");
+			}
+			
 		}
 		function sendOrder(elem) {
-			var baia;
-			var onlyOne = 0;
-			$('.baia').each(function(e, item) {
-				if ($(item).data("tipo") == "ORDER"){
-					if (item.checked == true){
-						onlyOne++;
-						baia = $(item).data("numero");
-					}
-				}
-			});
-			
-			if (onlyOne == 1){
-// 				console.log(baia);
-				EnviarPedido(baia, elem);
-				console.log("Enviando");
+			if (array.length == 1 ){
+				console.log(array[0].numero);
+				EnviarPedido(array[0].numero);
 			}else{
-				alert("Para pedidos somente uma baia de pedido deve ser selecionada");
+				alert("Pedido inválido. Selecione somente uma baia solicitante");
 			}
-			
-// 			array.forEach(function(entry) {
-			    
-// 				console.log(entry);
-// 			    texto += entry + " > "
-// 			});
-			
-// 			console.log(array);
-			/*var array = {};
-			array["3031"] = $("#3031:checked").val();
-			array["3032"] = $("#3032:checked").val();
-			array["3033"] = $("#3033:checked").val();
-			array["3034"] = $("#3034:checked").val();
-			array["3035"] = $("#3035:checked").val();
-			array["3036"] = $("#3036:checked").val();
-			array["3037"] = $("#3037:checked").val();
-			array["3038"] = $("#3038:checked").val();
-			array["3039"] = $("#3039:checked").val();
-			array["3130"] = $("#3130:checked").val();
-			array["3131"] = $("#3131:checked").val();
-			array["3132"] = $("#3132:checked").val();
-			array["3133"] = $("#3133:checked").val();
-			array["3134"] = $("#3134:checked").val();
-			array["3135"] = $("#3135:checked").val();
-			array["3136"] = $("#3136:checked").val();
-			array["3137"] = $("#3137:checked").val();
-			array["3138"] = $("#3138:checked").val();
-			array["3139"] = $("#3139:checked").val();
-			array["3230"] = $("#3230:checked").val();
-			array["3231"] = $("#3231:checked").val();
-			array["3232"] = $("#3232:checked").val();
-			EnviarParadas(array);
-			 */
+
 		}
 		function sendStops(elem) {
 			var array = {};
 			array[elem.id] = elem.checked;
 			EnviarParadasSample(array);
 		}
-		function clearStops() {
-			ClearParadas();
-			location.reload();
+		function clearRoute() {
+			texto = "";
+			array = new Array();
+			document.getElementById('rotas').innerHTML = "";
 		}
 
 		function refreshComponentes() {

@@ -3,13 +3,14 @@ package AGVS.FORD.MESH;
 import java.util.Comparator;
 
 public enum TipoBaia {
-	ENDPOINT(1),
+	HOME1(1),
 	ORDER(2),
 	SPECIAL(3),
 	DELIVERY1(4),
-	DELIVERY2(5),
-	DELIVERY3(6),
-	DELIVERY4(7);
+	RECOVERY1(5),
+	DELIVERY2(6),
+	RECOVERY2(7),
+	HOME2(8);
 	
 	public int iTipo;
 

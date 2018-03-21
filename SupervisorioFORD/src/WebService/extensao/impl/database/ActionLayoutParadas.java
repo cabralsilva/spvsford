@@ -1,35 +1,15 @@
 package WebService.extensao.impl.database;
 
-import java.awt.Container;
-import java.io.BufferedOutputStream;
-import java.io.File;
-import java.io.FileOutputStream;
 import java.io.PrintStream;
-import java.util.Date;
 import java.util.List;
 
-import javax.swing.JFrame;
-
-import AGVS.Controller.Rules.RulesUsuarios;
 import AGVS.Data.AGV;
-import AGVS.Data.ConfigProcess;
-import AGVS.Data.Line;
 import AGVS.Data.Tag;
+import AGVS.FORD.MESH.Baia;
 import AGVS.FORD.MESH.MeshModbus;
 import AGVS.FORD.MESH.TipoBaia;
 import AGVS.Serial.DatabaseStatic;
-import AGVS.Util.Log;
-import AGVS.Util.Util;
-import WebService.HTML.ConvertPAGinHTML;
-import WebService.HTML.PathFilesPAG;
-import WebService.HTML.Tags;
-import WebService.extensao.Command;
 import WebService.extensao.CommandDB;
-import WebService.extensao.impl.Login.Login;
-import WebService.extensao.impl.Tags.Keys;
-import WebService.extensao.impl.Tags.Methods;
-import WebService.extensao.impl.Tags.TagsValues;
-import WebService.http.Config;
 import WebService.http.Dispatcher;
 import WebService.http.Request;
 import WebService.http.Response;
@@ -53,13 +33,75 @@ public class ActionLayoutParadas implements CommandDB {
 //			}
 //			
 //		}
+		for (int k = 0; DatabaseStatic.lstMeshModBus != null && k < DatabaseStatic.lstMeshModBus.size(); k++) {
+			MeshModbus mm = DatabaseStatic.lstMeshModBus.get(k);
+			for (int i = 0; mm.getLstBaia() != null && i < mm.getLstBaia().size(); i++) {
+				Baia baia = mm.getLstBaia().get(i);
+				if (baia.getTipo() != TipoBaia.HOME1 && baia.getTipo() != TipoBaia.HOME2) {
+					html += "<div style=\"position: absolute; top: " + baia.getCoordenadaY()+"%; left: "+baia.getCoordenadaX()+"%; transform: rotate(0deg) translate(-50%,-50%); /*border: 3px solid #73AD21;*/\">\r\n" + 
+							"<button id=\"" + baia.getNome()+"\"3 type=\"button\" class=\"btn btn-floating btn-success btn-sm\" onclick=\"buildOrder(this)\" data-tipo=\""+baia.getTipo()+"\" data-numero=\""+baia.getNumero()+"\" name=\"btn"+baia.getNome()+"\">"
+								+ "<i class=\"icon wb-plus\" aria-hidden=\"true\"></i></button>"+
+							"</div>";
+					
+					
+				}
+			}						
+		}
 		
-		for(MeshModbus mm : DatabaseStatic.lstMeshModBus) {
-			if (mm.getBaia().getTipo() != TipoBaia.ENDPOINT) {
-				html += "<div style=\"position: absolute; top: "+mm.getBaia().getCoordenadaY()+"%; left: "+mm.getBaia().getCoordenadaX()+"%; transform: rotate(0deg) translate(-50%,-50%); /*border: 3px solid #73AD21;*/\">\r\n" + 
-						"	<input type=\"checkbox\" id=\""+mm.getNome()+"\" onchange=\"buildOrder(this)\" data-tipo=\""+mm.getBaia().getTipo()+"\" data-numero=\""+mm.getBaia().getNumero()+"\" class=\"baia\" name=\"inputiCheck"+mm.getNome()+"\" data-plugin=\"switchery\" data-color=\"#f96868\" data-secondary-color=\"#73AD21\" data-size=\"medium\" />" + 
-						"</div>";
-			}			
+		List<Tag> tags = DatabaseStatic.lstTags;		
+		List<AGV> agvs = DatabaseStatic.lstAGVS;
+		int r = 11;
+		String color = "green";
+		for (Tag tag : tags) {
+			int codigo;
+			for(AGV agv : agvs) {
+				
+				String fontCor = "white";
+				if (!agv.getStatus().equals(AGV.statusManual) && !agv.getStatus().equals(AGV.statusEmRepouso)) {
+					if (agv.getTagAtual() != null && tag.getEpc() != null && agv.getTagAtual().equals(tag.getEpc())) {
+						switch (agv.getStatus()) {
+							case AGV.statusFugaRota:
+							case AGV.statusEmergenciaRemota:
+							case AGV.statusEmergencia:
+								color = "red";
+								fontCor = "black";
+								break;
+							case AGV.statusEmCruzamento:
+							case AGV.statusEmFila:
+							case AGV.statusObstaculo:
+								color = "yellow";
+								fontCor = "black";
+								break;
+							case AGV.statusEmEspera:
+								color = "rgba(255,192,203,1)";
+								fontCor = "black";
+								break;
+							case AGV.statusEmRepouso:
+								color = "white";
+								fontCor = "black";
+								break;
+							case AGV.statusManual:
+								color = "rgba(12,103,193,0.8)";
+							default:
+								color = "rgba(0,255,0,0.7)";
+								fontCor = "black";
+								break;
+						}
+						codigo = agv.getId();
+						html += "<div style=\"position: absolute; "
+								+ "font-size: 14px; "
+								+ "height: "+(2*r)+"px; "
+								+ "width: " +(2*r)+"px; "
+								+ "top: "+tag.getCoordenadaY()+"px; left: "+tag.getCoordenadaX()+"px; "
+								+ "transform: translate(-50%,-50%); "
+								+ "border: 1px solid #73AD21; border-radius: 50%; "
+								+ "background-color: "+color+"; color: "+fontCor+"; \">\r\n" +  
+									
+									"<center>"+codigo+"</center>"+
+							"</div>";
+					}
+				}
+			}	
 		}
 		
 		

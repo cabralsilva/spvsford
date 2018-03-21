@@ -29,14 +29,14 @@ public class MeshModbus extends Thread {
 	private List<Baia> lstBaia;
 	
 
-	public MeshModbus(String ip, String nome, Baia lstBaia, boolean btn1, boolean btn2, boolean btn3) {
+	public MeshModbus(String ip, String nome, List<Baia> lstBaia, boolean btn1, boolean btn2, boolean btn3) {
 		this.nome = nome;
 		this.ip = ip;
 		this.btn1 = btn1;
 		this.btn2 = btn2;
 		this.btn3 = btn3;
 		this.on = true;
-		this.baia = lstBaia;
+		this.lstBaia = lstBaia;
 		this.start();
 	}
 
@@ -176,7 +176,7 @@ public class MeshModbus extends Thread {
 						if (i == 0) {
 							if (w >= 1024) {
 								this.btn3 = true;
-//								System.out.println(this.getIp() + ": EMERGENCIA LIVRE BTN3");
+								System.out.println(this.getIp() + ": EMERGENCIA LIVRE BTN3");
 							} else {
 								this.btn3 = false;
 							}
@@ -186,22 +186,18 @@ public class MeshModbus extends Thread {
 							if (w == 256) {
 								this.btn1 = true;
 								this.btn2 = false;
-								System.out.println(this.getIp() + ": ROTA NORMAL BTN 1");
-								this.baia.doOrderSample();
-//								for(Baia baia : this.lstBaia) {
-//									if (baia.getTipo().equals(TipoBaia.ORDER)) {
-//										baia.doOrderSample();
-//									}
-//								}
+								for(int j = 0; this.lstBaia != null && j < this.lstBaia.size();j++) {
+									Baia baia = this.lstBaia.get(j);
+									if (baia.getTipo() == TipoBaia.ORDER) {
+										baia.doOrderSample(this);
+									}
+								}
 							} else if (w == 512) {
 								this.btn1 = false;
 								this.btn2 = true;
-								System.out.println(this.getIp() + ": SENSOR BAIA BTN2 ON");
 							} else if (w == 768) {
 								this.btn1 = true;
 								this.btn2 = true;
-								System.out.println(this.getIp() + ": BTN1 ON -- BTN2 ON");
-//								System.out.println(this.getIp() + ": ");
 							} else {
 								this.btn1 = false;
 								this.btn2 = false;

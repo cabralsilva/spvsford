@@ -158,8 +158,10 @@
 	  	<div class="page-content padding-30 container-fluid">
 	  
 		<div class="row">
-				<div id="layout" class="col-md-offset-4 col-md-5">
-				</div>
+			<div id="layout" class="col-md-12" style="position: relative; border: 1px dotted #000;
+						background: no-repeat; background-image: url(/TAS/images/background.jpg); background-size: 100% 100%;">
+				<img src="/TAS/images/background.jpg" style="visibility: hidden;" />
+			</div>
 		</div>
 		
 	  
@@ -247,7 +249,7 @@
   <script src="/TAS/js/clickHref.js" charset="iso-8859-1"></script>
   <script>	
   	function refreshComponentes(){
-		refreshElement("/ActionLayout", "layout");
+// 		refreshElement("/ActionLayout", "layout");
 	}
 	refreshComponentes();
 	window.onload=function(){

@@ -59,8 +59,14 @@ public class DatabaseStatic {
 	public static PausablePlayer player;
 	
 	public static List<MeshModbus> lstMeshModBus;
+	public static List<Baia> lstBaia;
+	public static List<Tag> lstTags;
 	
-
+	
+	public static void resetTAGS() {
+		lstTags = ConfigProcess.bd().selecTags();
+		System.out.println("Reset TAGS");
+	}
 	
 	
 	public static void resetZoneTime() {
@@ -83,9 +89,9 @@ public class DatabaseStatic {
 		for (MeshSerial ms : mashs) {
 			
 			ms.setLstPms(ConfigProcess.bd().selectGatesInByMesh(ms.getId()));
-			System.out.println(ms.getLstPms());
+//			System.out.println(ms.getLstPms());
 			ms.setLstSpms(ConfigProcess.bd().selectGatesOutByMesh(ms.getId()));
-			System.out.println(ms.getLstSpms());
+//			System.out.println(ms.getLstSpms());
 			
 		}
 	
@@ -552,45 +558,12 @@ public class DatabaseStatic {
 		for (MeshSerial ms : mashs) {
 			ms.setLstBaia(ConfigProcess.bd().selectBaiasByMesh(ms.getId()));
 			lstMeshModBus.add(new MeshModbus(ms.getIp(), ms.getNome(), 
-					new Baia(ms.getLstBaia().get(0).getId(), 
-							ms.getLstBaia().get(0).getNome(), 
-							ms.getLstBaia().get(0).getNumero(), 
-							ms.getLstBaia().get(0).getCoordenadaX(), 
-							ms.getLstBaia().get(0).getCoordenadaY(), 
-							ms.getLstBaia().get(0).getTipo(), 
-							true, 
-							true),
-					false,false,false));
+					ms.getLstBaia(),
+					true,true,false));
 		}
 		
-//		MeshModbus home1 = new MeshModbus("19.26.136.29", "Home 1", new Baia(1, "H1", 14, 95, 95, TipoBaia.ENDPOINT, true, true), false,false,false);
-//		MeshModbus home2 = new MeshModbus("19.26.136.30", "Home 2", new Baia(2, "H1", 15, 95, 95, TipoBaia.ENDPOINT, true, true), false,false,false);
-//		MeshModbus baiaA = new MeshModbus("19.26.136.12", "Baia A", new Baia(3, "A", 16, 95, 95, TipoBaia.ORDER, true, true), false,false,false);
-//		MeshModbus baiaB = new MeshModbus("19.26.136.13", "Baia B", new Baia(4, "B", 17, 95, 95, TipoBaia.ORDER, true, true), false,false,false);
-//		MeshModbus baiaC = new MeshModbus("19.26.136.14", "Baia c", new Baia(5, "C", 18, 95, 95, TipoBaia.ORDER, true, true), false,false,false);
-//		MeshModbus baiaD = new MeshModbus("19.26.136.15", "Baia D", new Baia(6, "D", 19, 95, 95, TipoBaia.ORDER, true, true), false,false,false);
-//		MeshModbus baiaE = new MeshModbus("19.26.136.16", "Baia E", new Baia(7, "E", 20, 95, 95, TipoBaia.ORDER, true, true), false,false,false);
-//		MeshModbus baiaG = new MeshModbus("19.26.136.18", "Baia G", new Baia(8, "G", 22, 95, 95, TipoBaia.ORDER, true, true), false,false,false);
-//		MeshModbus baiaH = new MeshModbus("19.26.136.19", "Baia H", new Baia(9, "H", 23, 95, 95, TipoBaia.ORDER, true, true), false,false,false);
-//		MeshModbus baiaN = new MeshModbus("19.26.136.25", "Baia N", new Baia(2, "H1", 29, 64, 4, TipoBaia.DELIVERY1, false, true), false,false,false);
-//		MeshModbus baiaO = new MeshModbus("19.26.136.26", "Baia O", new Baia(2, "H1", 30, 72, 4, TipoBaia.DELIVERY2, true, true), false,false,false);
-//		MeshModbus baiaP = new MeshModbus("19.26.136.27", "Baia P", new Baia(2, "H1", 31, 79, 4, TipoBaia.DELIVERY3, false, true), false,false,false);
-//		MeshModbus baiaQ = new MeshModbus("19.26.136.28", "Baia Q", new Baia(2, "H1", 32, 87, 4, TipoBaia.DELIVERY4, true, true), false,false,false);
-		
-//		lstMeshModBus.add(home1);
-//		lstMeshModBus.add(home2);
-//		lstMeshModBus.add(baiaA);
-//		lstMeshModBus.add(baiaB);
-//		lstMeshModBus.add(baiaC);
-//		lstMeshModBus.add(baiaD);
-//		lstMeshModBus.add(baiaE);
-//		lstMeshModBus.add(baiaG);
-//		lstMeshModBus.add(baiaH);
-//
-//		lstMeshModBus.add(baiaN);
-//		lstMeshModBus.add(baiaO);
-//		lstMeshModBus.add(baiaP);
-//		lstMeshModBus.add(baiaQ);
+		lstBaia = ConfigProcess.bd().selectBaias();
+//		System.out.println(lstBaia);
 	}
 
 	public DatabaseStatic() {
@@ -609,6 +582,7 @@ public class DatabaseStatic {
 		bufferEntradaCheioLinha2 = null;
 		bufferEntradaCheioLinha3 = null;
 		resetAGVS();
+		resetTAGS();
 		resetMeshs();
 		
 		if (config.getProperty(Config.PROP_PROJ).equals(ConfigProcess.PROJ_TOYOTA_SOROCABA)) {

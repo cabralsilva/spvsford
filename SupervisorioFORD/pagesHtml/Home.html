@@ -153,9 +153,10 @@
   <div class="page-content padding-30 container-fluid">
 	<div class="panel">
 		<div class="row">
-				<div id="layout" class="col-md-offset-4 col-md-4"  
-			 		style="height: 100%;">
-				</div>
+		<div id="layout" class="col-md-12" style="	position: relative; /*border: 3px solid #73AD21;*/
+					background: no-repeat; background-image: url(../TAS/images/background.jpg); background-size: 100% 100%;">
+			<img src="../TAS/images/background.jpg" style="visibility: hidden;" />
+		</div>
 		</div>
 	</div>
 	<div id="agvs">
@@ -212,7 +213,7 @@
   <script src="/assets/examples/js/uikit/icon.js"></script>
   <script>
 	function refreshComponentes(){
-		refreshElement("/ActionLayoutHome", "layout");
+// 		refreshElement("/ActionLayoutHome", "layout");
 		refreshElement("/ActionAGVHome", "agvs");
 	}
 	refreshComponentes();

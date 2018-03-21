@@ -306,8 +306,8 @@ function EnviarParadas(arrayTag){
 	enviarDados(resp);
 }
 
-function EnviarPedido(to, idagv){
-	var resp = '/ActionPedidos?action=add&to='+to+'&idagv='+idagv;
+function EnviarPedido(to){
+	var resp = '/ActionPedidos?action=add&to='+to;
 	enviarDados(resp);
 }
 function EnviarParadasSample(arrayTag){

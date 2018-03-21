@@ -17,6 +17,7 @@ import AGVS.Data.ConfigProcess;
 import AGVS.Data.Cruzamento_OLD;
 import AGVS.Data.FuncaoPos;
 import AGVS.Data.PosicaoInicioTurno;
+import AGVS.FORD.MESH.Baia;
 import AGVS.FORD.MESH.MeshModbus;
 import AGVS.Serial.DatabaseStatic;
 import AGVS.Util.Util;
@@ -57,14 +58,15 @@ public class ActionPedidos implements CommandDB {
 				}
 			} else if (req.getGetParams().get(TagsValues.paramAction).equals(TagsValues.valueAddParamAction)) {
 				if (req.getGetParams().containsKey(TagsValues.paramTo)) {
-					for (MeshModbus mm : DatabaseStatic.lstMeshModBus) {
-						if (mm.getBaia().getNumero() == Integer.parseInt(req.getGetParams().get(TagsValues.paramTo))){
-							System.out.println("processing: " + mm.getBaia().getNumero());
-							html = mm.getBaia().doOrderSample();
-							System.out.println(html);
+					for(int i = 0; DatabaseStatic.lstMeshModBus!= null && i < DatabaseStatic.lstMeshModBus.size(); i++) {
+						MeshModbus mm = DatabaseStatic.lstMeshModBus.get(i);
+						for (int j = 0; mm.getLstBaia() != null && j < mm.getLstBaia().size(); j++) {
+							Baia baia = mm.getLstBaia().get(j);
+							if (baia.getNumero() == Integer.parseInt(req.getGetParams().get(TagsValues.paramTo))){
+								html = baia.doOrderSample(mm);
+							}
 						}
 					}
-					html = "OK";
 				}
 			}
 		}

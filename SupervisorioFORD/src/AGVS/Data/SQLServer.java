@@ -55,7 +55,7 @@ public class SQLServer implements BancoDados {
 	private final String strSelectLines = "select lines.descricao as 'lines.descricao', lines.xInicial as 'lines.xInicial', lines.yInicial as 'lines.yInicial', lines.xFinal as 'lines.xFinal', lines.yFinal as 'lines.yFinal', lines.cor as 'lines.cor' from lines";
 	private final String strSelectTags = "select tags.epc as 'tags.epc', tags.nome as 'tags.nome', tags.codigo as 'tags.codigo', tags.coordenadaX as 'tags.coordenadaX', tags.coordenadaY as 'tags.coordenadaY' from tags";
 	private final String strSelectFalhas = "select falhas.id as 'falhas.id', falhas.data as 'falhas.data', falhas.msg as 'falhas.msg', falhas.idAGV as 'falhas.idAGV' from falhas";
-	private final String strSelectBaias = "select baias.id as 'baias.id', baias.nome as 'baias.nome', baias.numeroRota as 'baias.numeroRota', baias.coordenadaX as 'baias.coordenadaX', baias.coordenadaY as 'baias.coordenadaY', baias.tipoBaia as 'baias.tipoBaia' from baias";
+	private final String strSelectBaias = "select baias.sensor1 as 'baias.sensor1', baias.livre as 'baias.livre', baias.id as 'baias.id', baias.nome as 'baias.nome', baias.numeroRota as 'baias.numeroRota', baias.coordenadaX as 'baias.coordenadaX', baias.coordenadaY as 'baias.coordenadaY', baias.tipoBaia as 'baias.tipoBaia' from baias";
 	private final String strSelectTagAtraso = "select timeTag.nome as 'timeTag.nome', timeTag.tempo as 'timeTag.tempo', tags.epc as 'tags.epc', tags.nome as 'tags.nome', tags.codigo as 'tags.codigo', tags.coordenadaX as 'tags.coordenadaX', tags.coordenadaY as 'tags.coordenadaY' from timeTag LEFT JOIN tags  ON tags.epc = timeTag.epc";
 	private final String strSelectTagRota = "select tagsRota.nome as 'tagsRota.nome', tagsRota.posicao as 'tagsRota.posicao', tagsRota.addRota as 'tagsRota.addRota', tagsRota.setPoint as 'tagsRota.setPoint', tagsRota.velocidade as 'tagsRota.velocidade', tagsRota.temporizador as 'tagsRota.temporizador', tagsRota.girar as 'tagsRota.girar', tagsRota.estadoAtuador as 'tagsRota.estadoAtuador', tagsRota.sensorObstaculo as 'tagsRota.sensorObstaculo', tagsRota.sinalSonoro as 'tagsRota.sinalSonoro', tagsRota.tagDestino as 'tagsRota.tagDestino', tagsRota.tagParada as 'tagsRota.tagParada', tagsRota.pitStop as 'tagsRota.pitStop', rotas.nome as 'rotas.nome', rotas.descricao as 'rotas.descricao', tags.epc as 'tags.epc', tags.nome as 'tags.nome', tags.codigo as 'tags.codigo', tags.coordenadaX as 'tags.coordenadaX', tags.coordenadaY as 'tags.coordenadaY' from tagsRota LEFT JOIN rotas ON tagsRota.nomeRota = rotas.nome LEFT JOIN tags ON tags.epc = tagsRota.epc";
 	private final String strSelectCruzamentos = "select cruzamentos.nome as 'cruzamentos.nome', cruzamentos.descricao as 'cruzamentos.descricao' from cruzamentos";
@@ -128,7 +128,8 @@ public class SQLServer implements BancoDados {
 
 	private Baia getBaia(ResultSet rs) throws SQLException {
 		TipoBaia tb = TipoBaia.getById(rs.getInt("baias.tipoBaia"));
-		return new Baia(rs.getInt("baias.id"), rs.getString("baias.nome"), rs.getInt("baias.numeroRota"), rs.getInt("baias.coordenadaX"), rs.getInt("baias.coordenadaY"), tb, false, false);
+		return new Baia(rs.getInt("baias.id"), rs.getString("baias.nome"), rs.getInt("baias.numeroRota"), rs.getInt("baias.coordenadaX"), 
+				rs.getInt("baias.coordenadaY"), tb, rs.getBoolean("baias.sensor1"), rs.getBoolean("baias.livre"));
 	}
 
 	private TagsRotas getTagRota(ResultSet rs) throws SQLException {

@@ -20,7 +20,7 @@
 		if ($('.site-navbar').length > 0) {
 			offsetTop = $('.site-navbar').eq(0).innerHeight();
 		}
-		
+
 		// initialize datatable
 		var table = $('#exampleFixedHeader').DataTable({
 			responsive : true,
@@ -31,8 +31,6 @@
 			"bPaginate" : false,
 			"sDom" : "t" // just show table, no other controls
 		});
-
-
 
 		// redraw fixedHeaders as necessary
 		// $(window).resize(function() {

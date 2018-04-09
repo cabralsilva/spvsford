@@ -59,7 +59,7 @@ public class Servidor implements Runnable {
 	}
 
 	protected void open(int porta) throws IOException {
-		System.out.println("Criando ServerSocket.");
+		System.out.println("Criando ServerSocket wifi.");
 		serverSocket = new ServerSocket(porta);
 	}
 

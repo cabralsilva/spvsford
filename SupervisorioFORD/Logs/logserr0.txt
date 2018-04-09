@@ -1,0 +1,3464 @@
+
+22/03/2018 12:11:08.627#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:11:28.891#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:12:55.376#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:12:57.457#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:12:59.514#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:01.625#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:03.695#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:05.728#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:07.811#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:09.876#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:11.945#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:13.985#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:16.088#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:18.127#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:20.229#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:22.268#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:24.341#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:26.413#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:28.499#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:30.552#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:32.657#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:34.776#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:36.790#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:38.853#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:40.927#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:42.988#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:45.088#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:47.181#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:49.227#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:51.300#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:53.375#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:55.434#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:57.504#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:13:59.611#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:14:01.706#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:14:03.711#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:14:05.782#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:14:07.877#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:14:09.946#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:14:12.013#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:14:14.072#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:14:16.162#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:14:18.245#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:14:20.290#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:14:22.345#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:14:24.433#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:14:26.503#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:14:28.595#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:14:30.667#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:14:32.749#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:14:34.793#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:14:36.870#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:14:38.942#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:14:41.011#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:14:43.099#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:14:45.170#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:14:52.210#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:14:54.287#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:14:56.375#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:14:58.440#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:00.530#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:02.617#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:04.710#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:06.783#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:08.875#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:10.918#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:13.019#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:15.059#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:17.179#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:19.282#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:21.318#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:23.417#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:25.456#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:27.548#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:29.620#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:31.706#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:33.749#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:35.852#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:37.914#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:39.964#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:42.023#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:44.188#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:46.203#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:48.234#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:50.325#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:52.384#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:54.475#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:56.527#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:15:58.595#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:00.683#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:02.739#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:04.843#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:06.912#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:08.977#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:11.021#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:13.119#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:15.165#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:17.256#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:19.371#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:21.395#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:23.479#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:25.518#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:27.619#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:29.703#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:31.776#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:33.847#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:35.898#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:37.940#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:40.020#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:42.105#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:44.170#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:46.261#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:48.337#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:50.393#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:52.476#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:54.571#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:56.635#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:16:58.718#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:00.777#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:02.847#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:04.943#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:07.011#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:09.077#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:11.175#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:13.238#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:15.310#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:17.366#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:19.405#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:21.505#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:23.566#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:25.621#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:27.709#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:29.792#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:31.826#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:33.917#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:35.978#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:38.075#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:40.175#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:42.221#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:44.290#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:46.375#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:48.463#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:50.517#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:52.573#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:54.659#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:56.730#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:17:58.803#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:00.857#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:02.942#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:04.995#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:07.070#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:09.138#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:11.218#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:13.281#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:15.351#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:17.428#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:19.499#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:21.601#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:23.649#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:25.713#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:27.792#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:29.853#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:31.948#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:34.012#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:36.087#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:38.142#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:40.220#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:42.274#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:44.368#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:46.440#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:48.522#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:50.576#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:52.654#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:54.713#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:56.798#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:18:58.865#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:00.929#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:02.978#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:05.031#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:07.113#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:09.185#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:11.238#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:13.309#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:15.406#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:17.463#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:19.522#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:21.618#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:23.661#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:25.744#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:27.829#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:29.877#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:31.964#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:34.019#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:36.110#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:38.190#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:40.253#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:42.442#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:44.523#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:46.574#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:48.635#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:50.716#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:52.786#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:54.870#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:56.920#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:19:59.003#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:01.043#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:03.133#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:05.211#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:07.276#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:09.355#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:11.412#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:13.498#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:15.580#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:17.625#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:19.696#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:21.792#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:23.883#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:25.943#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:28.010#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:30.089#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:32.162#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:34.243#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:36.292#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:38.369#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:40.451#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:42.493#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:44.564#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:46.664#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:48.702#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:50.809#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:52.875#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:54.926#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:56.987#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:20:59.084#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:01.149#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:03.190#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:05.292#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:07.337#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:09.407#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:11.483#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:13.580#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:15.664#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:17.731#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:19.841#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:21.838#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:23.909#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:25.978#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:28.049#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:30.154#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:32.186#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:34.285#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:36.322#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:38.411#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:40.473#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:42.535#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:44.619#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:46.699#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:48.755#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:50.818#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:52.896#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:54.966#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:57.063#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:21:59.103#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:01.210#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:03.243#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:05.344#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:07.411#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:09.446#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:11.537#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:13.615#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:15.703#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:17.754#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:19.808#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:21.909#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:23.944#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:26.044#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:28.110#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:30.155#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:32.250#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:34.339#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:36.391#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:38.470#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:40.542#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:42.602#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:44.699#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:46.762#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:48.840#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:50.923#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:52.989#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:55.042#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:57.114#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:22:59.193#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:01.262#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:03.336#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:05.427#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:07.460#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:09.533#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:11.625#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:13.709#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:15.778#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:17.813#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:19.883#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:21.953#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:24.026#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:26.123#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:28.195#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:30.269#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:32.364#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:34.448#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:36.521#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:38.647#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:40.712#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:42.769#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:44.865#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:46.939#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:49.017#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:51.086#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:53.162#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:55.253#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:57.337#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:23:59.399#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:01.465#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:03.537#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:05.610#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:07.682#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:09.759#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:11.815#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:13.909#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:15.977#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:18.099#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:20.169#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:22.254#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:24.297#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:26.371#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:28.474#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:30.537#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:32.613#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:34.642#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:36.736#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:38.819#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:40.858#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:42.930#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:45.020#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:47.100#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:49.183#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:51.236#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:53.299#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:55.397#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:57.460#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:24:59.573#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:01.672#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:03.742#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:05.820#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:07.880#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:09.949#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:12.038#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:14.112#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:16.182#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:18.263#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:20.321#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:22.415#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:24.442#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:26.536#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:28.610#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:30.666#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:32.743#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:34.821#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:36.915#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:38.972#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:41.078#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:43.123#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:45.179#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:47.259#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:49.360#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:51.427#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:53.467#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:55.568#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:57.667#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:25:59.771#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:01.829#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:03.904#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:06.012#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:08.060#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:10.136#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:12.206#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:14.282#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:16.363#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:18.403#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:20.498#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:22.560#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:24.646#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:26.747#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:28.815#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:30.852#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:32.911#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:34.981#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:37.090#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:39.118#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:41.217#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:43.256#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:45.352#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:47.413#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:49.513#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:51.550#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:53.630#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:55.771#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:57.894#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:26:59.943#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:27:02.025#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:27:04.063#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:27:06.166#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:27:08.228#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:27:10.283#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:27:12.366#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:27:14.414#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:27:16.506#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:27:18.570#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:27:20.645#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:27:22.736#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:27:24.844#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:27:26.896#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:27:28.952#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:27:31.038#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:27:33.117#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:27:35.224#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:27:37.268#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:27:39.334#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:27:41.377#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:27:43.477#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:27:45.510#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:27:47.612#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:27:49.686#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
+
+22/03/2018 12:27:51.756#########################################
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at AGVS.Util.Util.localizarStrXML(Util.java:161)
+	at AGVS.Serial.ThActionSerialPacote.run(ThActionSerialPacote.java:74)
+
+################################################################
